@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcb318fd-6a86-46f7-bf0f-801cd259a095" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_rules_1_1_0_alpha3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/nyt/ui/main/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/nyt/viewmodel/MainActivityViewModel.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3a_API_30_x86]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="955" />
+  </component>
+  <component name="ProjectId" id="1kO0jd6GziNLlhzHRlEEt9u7gDD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.nyt" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="4_WVGA_Nexus_S_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-05-17T08:32:42.407Z" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android-custom-view/Users/mugdhaaggarwal/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/nyt/ui/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1605773707153" />
+    <property name="multi-representation-preview/Users/mugdhaaggarwal/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_selected" value="Custom views" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.nyt.viewmodel" />
+      <recent name="com.example.nyt.ui.main" />
+      <recent name="com.example.thehive.ui.main.view" />
+      <recent name="com.example.thehive.ui.main" />
+      <recent name="com.example.coolwinks.viewmodel" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.nyt.ui.main" />
+      <recent name="com.example.nyt.viewmodel" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.nyt" />
+      <recent name="com.example.thehive.ui.main.view" />
+      <recent name="com.example.coolwinks.data" />
+      <recent name="com.example.coolwinks.ui.main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.coolwinks.servicemanager" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/xlabs/data" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/coolwinks/adapter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android JUnit.MainActivityViewModelTest.getItems">
+    <configuration name="MainActivityViewModelTest.getAddress" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nyt.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.nyt.viewmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.nyt.viewmodel" />
+      <option name="MAIN_CLASS_NAME" value="com.example.nyt.viewmodel.MainActivityViewModelTest" />
+      <option name="METHOD_NAME" value="getAddress" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainActivityViewModelTest.getItems" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nyt.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.nyt.viewmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.nyt.viewmodel" />
+      <option name="MAIN_CLASS_NAME" value="com.example.nyt.viewmodel.MainActivityViewModelTest" />
+      <option name="METHOD_NAME" value="getItems" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkServiceTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nyt.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.nyt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.nyt" />
+      <option name="MAIN_CLASS_NAME" value="com.example.nyt.NetworkServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkServiceTest.emptyTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nyt.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.nyt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.nyt" />
+      <option name="MAIN_CLASS_NAME" value="com.example.nyt.NetworkServiceTest" />
+      <option name="METHOD_NAME" value="emptyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkServiceTest.serviceTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nyt.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.nyt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.nyt" />
+      <option name="MAIN_CLASS_NAME" value="com.example.nyt.NetworkServiceTest" />
+      <option name="METHOD_NAME" value="serviceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="nyt.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.MainActivityViewModelTest.getItems" />
+        <item itemvalue="Android JUnit.NetworkServiceTest" />
+        <item itemvalue="Android JUnit.NetworkServiceTest.serviceTest" />
+        <item itemvalue="Android JUnit.NetworkServiceTest.emptyTest" />
+        <item itemvalue="Android JUnit.MainActivityViewModelTest.getAddress" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcb318fd-6a86-46f7-bf0f-801cd259a095" name="Default Changelist" comment="" />
+      <created>1587475032627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587475032627</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="111" key="#ExampleInstrumentedT..." timestamp="1605728484725">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="555" y="111" key="#ExampleInstrumentedT.../0.23.1792.1026@0.23.1792.1026" timestamp="1605728484725" />
+    <state x="653" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1605774619118">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="653" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1028@0.23.1792.1028" timestamp="1605774619118" />
+    <state x="612" y="296" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1605686321716">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="612" y="296" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1605686321716" />
+    <state x="549" y="177" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605728976559">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="549" y="177" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1605728976559" />
+    <state x="638" y="298" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1605767631333">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="638" y="298" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1605767631333" />
+    <state x="595" y="266" key="AndroidProcessChooserDialog" timestamp="1605728157495">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="595" y="266" key="AndroidProcessChooserDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1605728157495" />
+    <state width="536" height="467" key="DebuggerActiveHint" timestamp="1605785104906">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="536" height="466" key="DebuggerActiveHint/0.23.1792.1026@0.23.1792.1026" timestamp="1605728194121" />
+    <state width="536" height="467" key="DebuggerActiveHint/0.23.1792.1028@0.23.1792.1028" timestamp="1605785104906" />
+    <state width="1572" height="265" key="GridCell.Tab.0.bottom" timestamp="1605785566239">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1572" height="265" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1605769878423" />
+    <state width="1572" height="265" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1605785566239" />
+    <state width="1572" height="265" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1605687782919" />
+    <state width="1572" height="265" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1605695269003" />
+    <state width="1572" height="265" key="GridCell.Tab.0.center" timestamp="1605785566239">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1572" height="265" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1605769878422" />
+    <state width="1572" height="265" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1605785566239" />
+    <state width="1572" height="265" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1605687782918" />
+    <state width="1572" height="265" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1605695269003" />
+    <state width="1572" height="265" key="GridCell.Tab.0.left" timestamp="1605785566238">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1572" height="265" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1605769878422" />
+    <state width="1572" height="265" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1605785566238" />
+    <state width="1572" height="265" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1605687782918" />
+    <state width="1572" height="265" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1605695269002" />
+    <state width="1572" height="265" key="GridCell.Tab.0.right" timestamp="1605785566239">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1572" height="265" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1605769878423" />
+    <state width="1572" height="265" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1605785566239" />
+    <state width="1572" height="265" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1605687782918" />
+    <state width="1572" height="265" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1605695269003" />
+    <state width="1572" height="265" key="GridCell.Tab.1.bottom" timestamp="1605785125162">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1572" height="265" key="GridCell.Tab.1.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1605728241313" />
+    <state width="1572" height="265" key="GridCell.Tab.1.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1605785125162" />
+    <state width="1572" height="265" key="GridCell.Tab.1.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1605687621912" />
+    <state width="1572" height="265" key="GridCell.Tab.1.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1605695269003" />
+    <state width="1572" height="265" key="GridCell.Tab.1.center" timestamp="1605785125162">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1572" height="265" key="GridCell.Tab.1.center/0.23.1792.1026@0.23.1792.1026" timestamp="1605728241313" />
+    <state width="1572" height="265" key="GridCell.Tab.1.center/0.23.1792.1028@0.23.1792.1028" timestamp="1605785125162" />
+    <state width="1572" height="265" key="GridCell.Tab.1.center/0.23.1792.1031@0.23.1792.1031" timestamp="1605687621911" />
+    <state width="1572" height="265" key="GridCell.Tab.1.center/0.23.1792.1033@0.23.1792.1033" timestamp="1605695269003" />
+    <state width="1572" height="265" key="GridCell.Tab.1.left" timestamp="1605785125162">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1572" height="265" key="GridCell.Tab.1.left/0.23.1792.1026@0.23.1792.1026" timestamp="1605728241313" />
+    <state width="1572" height="265" key="GridCell.Tab.1.left/0.23.1792.1028@0.23.1792.1028" timestamp="1605785125162" />
+    <state width="1572" height="265" key="GridCell.Tab.1.left/0.23.1792.1031@0.23.1792.1031" timestamp="1605687621911" />
+    <state width="1572" height="265" key="GridCell.Tab.1.left/0.23.1792.1033@0.23.1792.1033" timestamp="1605695269003" />
+    <state width="1572" height="265" key="GridCell.Tab.1.right" timestamp="1605785125162">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1572" height="265" key="GridCell.Tab.1.right/0.23.1792.1026@0.23.1792.1026" timestamp="1605728241313" />
+    <state width="1572" height="265" key="GridCell.Tab.1.right/0.23.1792.1028@0.23.1792.1028" timestamp="1605785125162" />
+    <state width="1572" height="265" key="GridCell.Tab.1.right/0.23.1792.1031@0.23.1792.1031" timestamp="1605687621911" />
+    <state width="1572" height="265" key="GridCell.Tab.1.right/0.23.1792.1033@0.23.1792.1033" timestamp="1605695269003" />
+    <state x="651" y="297" key="chooseDestDirectoryDialog" timestamp="1605728453007">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="651" y="297" key="chooseDestDirectoryDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1605728453007" />
+    <state x="651" y="298" key="chooseDestDirectoryDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1605686329341" />
+    <state x="566" y="267" width="615" height="490" key="find.popup" timestamp="1605769479539">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="566" y="267" width="615" height="490" key="find.popup/0.23.1792.1026@0.23.1792.1026" timestamp="1605769479539" />
+    <state x="566" y="268" width="615" height="490" key="find.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1605687108299" />
+    <state x="625" y="317" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1605728453050">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="625" y="317" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1605728453050" />
+    <state x="625" y="318" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1605686329400" />
+    <state x="539" y="239" width="670" height="680" key="search.everywhere.popup" timestamp="1605785437107">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="539" y="239" width="670" height="676" key="search.everywhere.popup/0.23.1792.1024@0.23.1792.1024" timestamp="1605638747268" />
+    <state x="539" y="239" width="670" height="678" key="search.everywhere.popup/0.23.1792.1026@0.23.1792.1026" timestamp="1605768913281" />
+    <state x="539" y="239" width="670" height="680" key="search.everywhere.popup/0.23.1792.1028@0.23.1792.1028" timestamp="1605785437107" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/nyt/App.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/nyt/ui/main/MainActivity.kt</url>
+          <line>33</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/nyt/viewmodel/MainActivityViewModel.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/nyt/adapter/PopularListAdapter.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/nyt/ui/main/view/ResulttemViewHolder.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/example/nyt/NetworkServiceTest.kt</url>
+          <line>33</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/example/nyt/NetworkServiceTest.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/example/nyt/ui/main/MainActivityTest.kt</url>
+          <line>18</line>
+          <properties class="com.example.nyt.ui.main.MainActivityTest" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="restaurantAdapterItemList" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/nyt$MainActivityViewModelTest__1_.ic" NAME="MainActivityViewModelTest (1) Coverage Results" MODIFIED="1605767712163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.nyt.viewmodel.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/nyt$NetworkServiceTest_emptyTest.ic" NAME="NetworkServiceTest.emptyTest Coverage Results" MODIFIED="1605780503728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.nyt.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/nyt$MainActivityTest__1_.ic" NAME="MainActivityTest (1) Coverage Results" MODIFIED="1605769456226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.nyt.ui.main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/nyt$NetworkServiceTest.ic" NAME="NetworkServiceTest Coverage Results" MODIFIED="1605781650824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.nyt.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>restaurantAdapterItemList</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
